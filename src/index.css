@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn-somar{
+  background-color: rgb(4, 235, 4);
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+.btn-somar:hover{
+  background-color: rgb(1, 202, 1);
+}
+.btn-subtrair{
+  background-color: red;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+.btn-subtrair:hover{
+  background-color: rgb(224, 5, 5);
+}
